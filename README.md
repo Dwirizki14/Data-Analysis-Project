@@ -22,7 +22,7 @@ Setiap dataset mencakup informasi seperti tanggal, musim, kondisi cuaca, jumlah 
 
 - pengaruh musim terhadap jumlah peminjaman sepeda
 
-# 📈 Dashboard Streamlit
+#  Dashboard Streamlit
 
 Dashboard interaktif dibangun menggunakan Streamlit dan menampilkan:
 
